@@ -775,7 +775,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 #### Zig
 
-*Solutions to AoC in Zig.*
+* [VirgileHenry/aoc-zig](https://github.com/VirgileHenry/aoc-zig) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 
 #### Zsh
 
